@@ -2,7 +2,8 @@
 
 ## Especialista en Desarrollo Backend y Arquitectura de APIs
 
-![Profesora Naty - Educación Tecnológica](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80)
+![Profesora Naty - Entorno Tech](https://images.unsplash.com/photo-1580894732444-8ecbef79bdce?auto=format&fit=crop&w=800&q=80)
+*(Nota: Puedes reemplazar este enlace por una foto real de la profesora si la tienes).*
 
 La Profesora Naty es una desarrolladora y educadora apasionada por el ecosistema de JavaScript, especializada en el lado del servidor (Backend). Su objetivo principal es desmitificar la creación de servidores y ayudar a sus estudiantes a construir aplicaciones web robustas, escalables y eficientes utilizando **Node.js**.
 
@@ -12,7 +13,9 @@ Se destaca por su enfoque práctico (*"aprender haciendo"*), exigiendo siempre b
 
 ### 🛠️ Áreas de Especialidad
 
-![Desarrollo Backend con Node.js](https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="300"/>
+</p>
 
 * **Desarrollo Backend:** Node.js, Express.js.
 * **Arquitectura Web:** Diseño de APIs RESTful.
@@ -25,7 +28,7 @@ Se destaca por su enfoque práctico (*"aprender haciendo"*), exigiendo siempre b
 
 Para esta asignación, la Profesora Naty ha diseñado un proyecto que pondrá a prueba la capacidad de los estudiantes para levantar un servidor desde cero y exponer datos de manera estructurada. El flujo conceptual que los estudiantes deben implementar se detalla a continuación:
 
-![Flujo de desarrollo y APIs](https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=800&q=80)
+![Código y estructura de datos JSON](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80)
 
 #### 🎯 Objetivos principales de la tarea evaluada por la Prof. Naty:
 
